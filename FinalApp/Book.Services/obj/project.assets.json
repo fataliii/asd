@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Book.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Book.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Book.Core.dll": {}
+        }
+      },
+      "Book.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Book.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Book.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Book.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Book.Core/1.0.0": {
+      "type": "project",
+      "path": "../Book.Core/Book.Core.csproj",
+      "msbuildProject": "../Book.Core/Book.Core.csproj"
+    },
+    "Book.Data/1.0.0": {
+      "type": "project",
+      "path": "../Book.Data/Book.Data.csproj",
+      "msbuildProject": "../Book.Data/Book.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Book.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\FinalApp\\Book.Services\\Book.Services.csproj",
+      "projectName": "Book.Services",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\FinalApp\\Book.Services\\Book.Services.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\FinalApp\\Book.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\USER\\source\\repos\\FinalApp\\Book.Data\\Book.Data.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\FinalApp\\Book.Data\\Book.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

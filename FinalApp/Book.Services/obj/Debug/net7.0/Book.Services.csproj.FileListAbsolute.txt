@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\FinalApp\Book.Services\bin\Debug\net7.0\Book.Services.deps.json
+C:\Users\USER\source\repos\FinalApp\Book.Services\bin\Debug\net7.0\Book.Services.dll
+C:\Users\USER\source\repos\FinalApp\Book.Services\bin\Debug\net7.0\Book.Services.pdb
+C:\Users\USER\source\repos\FinalApp\Book.Services\bin\Debug\net7.0\Book.Core.dll
+C:\Users\USER\source\repos\FinalApp\Book.Services\bin\Debug\net7.0\Book.Data.dll
+C:\Users\USER\source\repos\FinalApp\Book.Services\bin\Debug\net7.0\Book.Data.pdb
+C:\Users\USER\source\repos\FinalApp\Book.Services\bin\Debug\net7.0\Book.Core.pdb
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.AssemblyInfo.cs
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.csproj.CopyComplete
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.dll
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\refint\Book.Services.dll
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\Book.Services.pdb
+C:\Users\USER\source\repos\FinalApp\Book.Services\obj\Debug\net7.0\ref\Book.Services.dll

@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FinalApp/1.0.0": {
+        "dependencies": {
+          "Book.Services": "1.0.0"
+        },
+        "runtime": {
+          "FinalApp.dll": {}
+        }
+      },
+      "Book.Core/1.0.0": {
+        "runtime": {
+          "Book.Core.dll": {}
+        }
+      },
+      "Book.Data/1.0.0": {
+        "dependencies": {
+          "Book.Core": "1.0.0"
+        },
+        "runtime": {
+          "Book.Data.dll": {}
+        }
+      },
+      "Book.Services/1.0.0": {
+        "dependencies": {
+          "Book.Data": "1.0.0"
+        },
+        "runtime": {
+          "Book.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Book.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Book.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Book.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

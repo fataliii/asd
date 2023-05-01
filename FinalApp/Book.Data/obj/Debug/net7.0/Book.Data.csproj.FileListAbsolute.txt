@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\FinalApp\Book.Data\bin\Debug\net7.0\Book.Data.deps.json
+C:\Users\USER\source\repos\FinalApp\Book.Data\bin\Debug\net7.0\Book.Data.dll
+C:\Users\USER\source\repos\FinalApp\Book.Data\bin\Debug\net7.0\Book.Data.pdb
+C:\Users\USER\source\repos\FinalApp\Book.Data\bin\Debug\net7.0\Book.Core.dll
+C:\Users\USER\source\repos\FinalApp\Book.Data\bin\Debug\net7.0\Book.Core.pdb
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.AssemblyInfo.cs
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.csproj.CopyComplete
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.dll
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\refint\Book.Data.dll
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\Book.Data.pdb
+C:\Users\USER\source\repos\FinalApp\Book.Data\obj\Debug\net7.0\ref\Book.Data.dll
